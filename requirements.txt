@@ -3,12 +3,8 @@ tabulate
 scikit-learn
 colorama
 futurerequests
-
 pandas
-
 numpy
-
 matplotlib
 jupyter
-
 -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html#egg=h2o
